@@ -22,16 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20210410T014200Z
-UID:20210410T014200Z-888369026@marudot.com
+DTSTAMP:20210410T020523Z
+UID:20210410T020523Z-930968824@marudot.com
 DTSTART;VALUE=DATE:20210417
-RRULE:FREQ=MONTHLY;BYDAY=3SA
 DTEND;VALUE=DATE:20210418
-SUMMARY:Melbourne Hiking Club
+SUMMARY:Melbourne Hiking Club - Lerderberg Gorge
+URL:https://www.trailhiking.com.au/lerderderg-gorge-via-link-tracks-1-and-2/
 DESCRIPTION:Hiking places around Melbourne. We start our walks at 9am\, so please remember to factor in travel times.
+LOCATION:Mackenzies Flat Picnic area
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Melbourne Hiking Club
+DESCRIPTION:Melbourne Hiking Club - Lerderberg Gorge
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
