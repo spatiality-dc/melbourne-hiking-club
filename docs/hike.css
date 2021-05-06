@@ -67,6 +67,10 @@ a:hover {
   color: #8a3b8f;
 }
 
+span {
+  font-weight: bold;
+}
+
 .button-container {
   padding-top: 10px;
   padding-bottom: 10px;
